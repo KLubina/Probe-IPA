@@ -13,7 +13,7 @@ Mit CRUD sind folgende Funktionen gemeint:
 
 ## zu verwendende Technologien
 - C# (mit Visual Studio als IDE)
-- SQL (mit Oracle Database als DBMS)
+- SQL (mit Oracle Database oder Microsoft SQL Server als DBMS)
 
 ## Zeitplan
 
