@@ -1,5 +1,14 @@
 # Probe-IPA
 
+Inhalt
+Irgend eine CRUD-App
+- C = Create (Create-Statement)
+- R = Read (Select-Statement)
+- U = Update (Update-Statement)
+- D = Delete (Delete-Statement)
+
+Zeitplan
+
 06.10 bis zum 21.10
 
 06.10: Sonntag
