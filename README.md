@@ -1,7 +1,9 @@
 # Probe-IPA
 
 Inhalt
-Für die IPA ist es sehr wichtig dass die Applikation die CRUD-Funktion kann (z.B. Passwort-Manager)
+Für die IPA ist es sehr wichtig dass die Applikation die CRUD-Funktionen kann. 
+
+Ein Beispiel von einer Applikation die CRUD-Funktionen beinhaltet wäre z.B. ein Passwort-Manager.
 
 Mit CRUD sind folgende Funktionen gemeint:
 - C = Create (Create-Statement)
