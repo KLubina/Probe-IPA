@@ -11,6 +11,10 @@ Mit CRUD sind folgende Funktionen gemeint:
 - U = Update (Update-Statement)
 - D = Delete (Delete-Statement)
 
+## zu verwendende Technologien
+- C# (mit Visual Studio als IDE)
+- SQL (mit Oracle DBMS als DBMS)
+
 ## Zeitplan
 
 - 14.10: Montag
