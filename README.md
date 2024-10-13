@@ -13,11 +13,11 @@ Mit CRUD sind folgende Funktionen gemeint:
 
 ## Zeitplan
 
-14.10: Montag
-15.10: Dienstag
-16.10: Mittwoch
-17.10: Donnerstag
-18.10: Freitag
+- 14.10: Montag
+- 15.10: Dienstag
+- 16.10: Mittwoch
+- 17.10: Donnerstag
+- 18.10: Freitag
 
-19.10: Samstag
-20.10: Sonntag
+- 19.10: Samstag
+- 20.10: Sonntag
