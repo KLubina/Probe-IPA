@@ -16,9 +16,9 @@ Mit CRUD sind folgende Funktionen gemeint:
 - SQL (mit Microsoft SQL Server/MySQL als DBMS)
 
 - Microsoft Office, z.B: 
--- Word für die Dokumentation
--- Excel für den Zeitplan
--- Visio für Flowcharts
+  - Word für die Dokumentation
+  - Excel für den Zeitplan
+  - Visio für Flowcharts
 
 ## Zeitplan
 
