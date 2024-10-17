@@ -15,7 +15,10 @@ Mit CRUD sind folgende Funktionen gemeint:
 - C# (mit Visual Studio als IDE)
 - SQL (mit Microsoft SQL Server/MySQL als DBMS)
 
-- Microsoft Office (z.B. Word für die Dokumentation oder Excel für den Zeitplan)
+- Microsoft Office, z.B: 
+-- Word für die Dokumentation
+-- Excel für den Zeitplan
+-- Visio für Flowcharts
 
 ## Zeitplan
 
