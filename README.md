@@ -13,7 +13,7 @@ Mit CRUD sind folgende Funktionen gemeint:
 
 ## zu verwendende Technologien
 - C# (mit Visual Studio als IDE)
-- SQL (mit Microsoft SQL Server/MySQL als DBMS)
+- SQL (mit Microsoft SQL Server als DBMS)
 
 - Microsoft Office, z.B: 
   - Word für die Dokumentation
@@ -21,12 +21,3 @@ Mit CRUD sind folgende Funktionen gemeint:
   - Visio für Flowcharts
 
 ## Zeitplan
-
-- 14.10: Montag
-- 15.10: Dienstag
-- 16.10: Mittwoch
-- 17.10: Donnerstag
-- 18.10: Freitag
-
-- 19.10: Samstag
-- 20.10: Sonntag
