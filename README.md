@@ -1,7 +1,7 @@
 # Probe-IPA
 
 ## Inhalt
-Für die IPA ist es sehr wichtig dass die Applikation, die aus der IPA hervorgeht, die CRUD-Funktionen kann. 
+Für meine IPA ist es sehr wichtig dass die Applikation, die aus der IPA hervorgeht, die CRUD-Funktionen kann. 
 
 Ein Beispiel einer Applikation die die CRUD-Funktionen beinhaltet wäre ein Passwort-Manager.
 
@@ -21,5 +21,3 @@ Mit CRUD sind folgende Funktionen gemeint:
   - Word für die Dokumentation
   - Excel für den Zeitplan
   - Visio für Flowcharts
-
-## Zeitplan
