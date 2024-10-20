@@ -15,7 +15,7 @@ Mit CRUD sind folgende Funktionen gemeint:
 - C# (mit Visual Studio als IDE)
 - SQL (mit Microsoft SQL Server als DBMS)
 
-- Azure DevOpd fürs Projektmanagement
+- Azure DevOps fürs Projektmanagement
 
 - Microsoft Office, z.B: 
   - Word für die Dokumentation
